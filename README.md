@@ -1,14 +1,8 @@
-
-<div style = "text-align:center">
-  ## WELCOME! =]
-</div>
-##
-<div>
-  - 📘I'm a Control and Automation Engineering student! Fascinated to robotics 🤖 and mechanical systems ⚙!
-  - 🔎Interested, mainly, on optmization and on enhance systems efficiency.
-  - 🖥Studying C/C++, but still in love with Python!
-  - 🧐Trying to get better!
-</div>
+# WELCOME =]\
+- 📘I'm a Control and Automation Engineering student! Fascinated to robotics 🤖 and mechanical systems ⚙!\
+- 🔎Interested, mainly, on optmization and on enhance systems efficiency.\
+- 🖥Studying C/C++, but still in love with Python!\
+- 🧐Trying to get better!\
 ##
 <div>
   <a href="https://github.com/kauakksb">
@@ -18,14 +12,13 @@
 ##
 <div>
   <div>
-    ## 👨‍💻 Habilities
+## 👨‍💻 Habilities/
   </div>
-  <ul style = "display: flex ; flex-direction: row ">
-    <li><img align="center" alt="Kauã-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></li>
-    <li><img align="center" alt="Kauã-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></li>
-    <li><img align="center" alt="Kauã-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></li>
-    <li><img align="center" alt="Kauã-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></li>
-  </ul>
+ <div> 
+    <img align="center" alt="Kauã-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+    <img align="center" alt="Kauã-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+    <img align="center" alt="Kauã-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+    <img align="center" alt="Kauã-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
 ##
 <div> 
