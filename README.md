@@ -12,7 +12,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauakksb&layout=compact&langs_count=7&theme=prussian"/>
 </div>
 
-##
+</br>
+
 # 👨‍💻 Habilities
 
 <div> 
@@ -22,6 +23,7 @@
     <img align="center" alt="Kauã-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
 
+</br>
 </br>
 
 <div> 
