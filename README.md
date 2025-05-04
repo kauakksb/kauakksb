@@ -1,6 +1,7 @@
-## Oi, o meu nome é Kauã! 
-- 🤓 Tenho 16 anos, sou um estudante de programação e apaixonado por tecnologia!
-- 📖 Atualmente, estou aprendendo as linguagens front-end: HTML,CSS e JavaScript
+## Sei lá 
+- Aprendendo C, mas python é a minha paixão...
+- Estudante de Engenharia de Controle e Automação!
+- Tentando melhorar!
 ##
 <div>
   <a href="https://github.com/kauakksb">
