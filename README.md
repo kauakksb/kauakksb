@@ -13,7 +13,6 @@
 </div>
 
 ##
-    
 ## 👨‍💻 Habilities
 
 <div> 
@@ -23,6 +22,7 @@
     <img align="center" alt="Kauã-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
 
+</br>
 
 <div> 
   <a href="https://www.instagram.com/kaua_kksb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
