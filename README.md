@@ -8,8 +8,8 @@
 
 <div>
   <a href="https://github.com/kauakksb">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kauakksb&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauakksb&layout=compact&langs_count=7&theme=prussian"/>
+  <img alt="commit stats" height="150em" src="https://github-readme-stats.vercel.app/api?username=kauakksb&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+  <img alt="language stats" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauakksb&layout=compact&langs_count=7&theme=prussian"/>
 </div>
 
 </br>
@@ -17,10 +17,11 @@
 # 👨‍💻 Habilities
 
 <div> 
-    <img align="center" alt="Kauã-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-    <img align="center" alt="Kauã-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-    <img align="center" alt="Kauã-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-    <img align="center" alt="Kauã-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img align="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+    <img align="center" alt="cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+    <img align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+    <img align="center" alt="css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>
 
 </br>
